@@ -1,6 +1,10 @@
 # 💫 About Me:
-I am currently working on a car racing game using HTML, CSS, and JavaScript ,React and nodejs.
+Highly passionate **Full-Stack & Interactive Web Developer** specializing in modern web architectures and rich 3D browser experiences. 
 
+* 🚀 **Currently Building:** A 3D Interactive Web App & Racing Game Environment using **Three.js**, **Cannon.js**, and modern **JavaScript (ES6+)**.
+* 💻 **Tech Stack:** HTML5, CSS3, JavaScript, React.js, Node.js, Express.js & MongoDB.
+* 🎯 **Focus Areas:** Responsive Front-End Engineering, Interactive WebGL UI, and Full-Stack API Integration.
+* ⚡ **Fun Fact:** I love bridging the gap between creative 3D design and scalable web development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivamkaship3@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-426a86385) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shivamkuma75987) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@shivam kumar jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamkaship45@gamil.com) 
