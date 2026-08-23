@@ -1,10 +1,11 @@
 # 💫 About Me:
-Highly passionate **Full-Stack & Interactive Web Developer** specializing in modern web architectures and rich 3D browser experiences. 
+Hey there! 👋 I'm **Shivam Kumar**, a Full-Stack & 3D Web Enthusiast.
 
-* 🚀 **Currently Building:** A 3D Interactive Web App & Racing Game Environment using **Three.js**, **Cannon.js**, and modern **JavaScript (ES6+)**.
-* 💻 **Tech Stack:** HTML5, CSS3, JavaScript, React.js, Node.js, Express.js & MongoDB.
-* 🎯 **Focus Areas:** Responsive Front-End Engineering, Interactive WebGL UI, and Full-Stack API Integration.
-* ⚡ **Fun Fact:** I love bridging the gap between creative 3D design and scalable web development.
+I build dynamic, high-performance web applications and interactive 3D browser experiences. 
+
+- 🏎️ **Current Project:** Building and customizing an interactive 3D WebGL Portfolio & Racing Experience built with **Three.js**.
+- 🛠️ **Core Technologies:** JavaScript (ES6+), React, Node.js, Express, MongoDB, Tailwind CSS, and WebGL.
+- 🎓 **Learning & Exploring:** 3D Asset Optimization, Physics Engines, and Full-Stack Microservices Architecture.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivamkaship3@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-426a86385) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shivamkuma75987) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@shivam kumar jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamkaship45@gamil.com) 
